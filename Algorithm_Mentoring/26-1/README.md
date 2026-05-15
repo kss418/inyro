@@ -1,9 +1,9 @@
 # 26년 1학기 이니로 알고리즘 멘토링
 |주차|날짜|알고리즘|주차|날짜|알고리즘|
 |---|---|---|---|---|---|
-|1주차|3/19|Parametric Search|5주차|5/7|Trie|
-|2주차|3/26|Union Find|6주차|5/14|DP1|
-|3주차|4/2|MST|7주차|5/21|DP2|
-|4주차|4/9|Sparse Table|8주차|5/28|Segment Tree|
+|1주차|3/19|Parametric Search|5주차|5/21|Trie|
+|2주차|3/26|Union Find|6주차|5/28|DP1|
+|3주차|4/2|MST|7주차|6/4|DP2|
+|4주차|4/9|Sparse Table|8주차|6/11|Segment Tree|
 
 
